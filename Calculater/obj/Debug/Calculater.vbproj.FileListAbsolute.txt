@@ -1,0 +1,10 @@
+E:\VBNET\Calculater\Calculater\bin\Debug\Calculater.exe.config
+E:\VBNET\Calculater\Calculater\bin\Debug\Calculater.exe
+E:\VBNET\Calculater\Calculater\bin\Debug\Calculater.pdb
+E:\VBNET\Calculater\Calculater\bin\Debug\Calculater.xml
+E:\VBNET\Calculater\Calculater\obj\Debug\Calculater.frmCalculeter.resources
+E:\VBNET\Calculater\Calculater\obj\Debug\Calculater.Resources.resources
+E:\VBNET\Calculater\Calculater\obj\Debug\Calculater.vbproj.GenerateResource.Cache
+E:\VBNET\Calculater\Calculater\obj\Debug\Calculater.exe
+E:\VBNET\Calculater\Calculater\obj\Debug\Calculater.xml
+E:\VBNET\Calculater\Calculater\obj\Debug\Calculater.pdb
